@@ -17,7 +17,7 @@ ___
 <a href="https://www.codewars.com/users/VitOsGG">
  <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=Codewars&logoColor=black" alt="Codewars Badge"/>
 </a>
-
+<img src="https://img.shields.io/badge/ITDSVP22@gmail.com-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=FF0000">
   
  ___
 
